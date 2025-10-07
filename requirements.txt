@@ -1,0 +1,6 @@
+pandas==2.1.4
+psutil==5.9.0
+scapy==2.6.1
+streamlit==1.30.0
+streamlit-autorefresh==1.0.1
+watchdog==2.1.6
